@@ -1,4 +1,4 @@
-This script will automatically reopen ALL of your discord DM's. I noticed discord autocloses (without warning) old DM's if you're current open DM's are above a certain threshold (~150 from personal experience). This was made if you've ever accidentally closed a DM, and have no idea who you closed the DM with, or simply want to find all your previously closed DM's.
+This script will automatically reopen ALL of your discord DM's. I noticed discord autocloses (without warning) old DM's if youre current open DM's are above a certain threshold (~150 from personal experience). This was made if you've ever accidentally closed a DM, and have no idea who you closed the DM with, or simply want to find all your previously closed DM's.
 
 You need 3 simple things.
 1) Your discord data package: https://support.discordapp.com/hc/en-us/articles/360004957991-Your-Discord-Data-Package.
